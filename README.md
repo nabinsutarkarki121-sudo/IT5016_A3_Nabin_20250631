@@ -39,4 +39,23 @@
     
 	All in all, the program can be refined and tested in future, which is also aligned with Refactor principle. This makes the code more adaptable and less difficult to keep.
 
+Principles used in my code
+
+•	KISS (Keep It Simple, Stupid) - Its ability to make the program simple to follow with easy-to-understand rules and logic.
+
+•	Single Responsibility Principle (SRP) - A method only deals with a single task, and it is easy to understand.
+
+•	Clean Code - Names of variables and their structure are easy and comprehensible.
+
+•	DRY (Don’t Repeat Yourself) – It does not repeat the same code several times.
+
+•	Open/Closed Principle- Extendable to new functionality, but there are some approaches that could use better development.
+
+•	Separation of Concerns -Every aspect is dedicated to a single responsibility, such as decision-making or data gathering.
+
+•	YAGNI (You Aren’t Gonna Need It) - Lots of additional features are not added until they become necessary.
+
+•	Refactor Principle- This is a rule that one can enhance the code and later test it without breaking the program.
+
+
 
